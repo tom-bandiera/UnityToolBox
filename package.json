@@ -1,0 +1,15 @@
+{
+  "name": "be.tombandiera.unitytoolbox",
+  "version": "0.0.1",
+  "displayName": "Unity Toolbox",
+  "description": "Some tools for Unity",
+  "unity": "2019.1",
+  "author": {
+    "name": "Tom Bandiera",
+    "email": "tom.bandier@gmail.com"
+  },
+  "keywords": [
+    "unity",
+    "toolbox"
+  ]
+}
